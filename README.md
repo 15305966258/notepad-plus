@@ -245,100 +245,75 @@
 
 '''
 
-	@Override
-	protected void onCreate(Bundle savedInstanceState) {
-	    super.onCreate(savedInstanceState);
-	
-	    /*
-	     * Creates an Intent to use when the Activity object's result is sent back to the
-	     * caller.
-	     */
-	    final Intent intent = getIntent();
-	
-	    /*
-	     *  Sets up for the edit, based on the action specified for the incoming Intent.
-	     */
-	
-	    // Gets the action that triggered the intent filter for this Activity
-	    final String action = intent.getAction();
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#00000000"
+        android:layout_marginTop="10dp"
+        >
 
+    </LinearLayout>
 
-        // For an edit action:
-        if (Intent.ACTION_EDIT.equals(action)) {
-    
-            // Sets the Activity state to EDIT, and gets the URI for the data to be edited.
-            mState = STATE_EDIT;
-            mUri = intent.getData();
-            Log.d("zzz","uri="+mUri);
-            // For an insert or paste action:
-        } else if (Intent.ACTION_INSERT.equals(action)
-                || Intent.ACTION_PASTE.equals(action)) {
-    
-            // Sets the Activity state to INSERT, gets the general note URI, and inserts an
-            // empty record in the provider
-            mState = STATE_INSERT;
-            mUri = getContentResolver().insert(intent.getData(), null);
-    
-            /*
-             * If the attempt to insert the new note fails, shuts down this Activity. The
-             * originating Activity receives back RESULT_CANCELED if it requested a result.
-             * Logs that the insert failed.
-             */
-            if (mUri == null) {
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/yuan"
+        android:orientation="horizontal"
+        android:padding="5dp">
 
+        <ImageView
+            android:layout_width="55dp"
+            android:layout_height="46dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/wenjian" />
 
-                // Writes the log identifier, a message, and the URI that failed.
-                Log.e(TAG, "Failed to insert new note into " + getIntent().getData());
-                // Closes the activity.
-                finish();
-                return;
-            }
-    
-            // Since the new entry was created, this sets the result to be returned
-            // set the result to be returned.
-            setResult(RESULT_OK, (new Intent()).setAction(mUri.toString()));
-    
-        // If the action was other than EDIT or INSERT:
-        } else {
-    
-            // Logs an error that the action was not understood, finishes the Activity, and
-            // returns RESULT_CANCELED to an originating Activity.
-            Log.e(TAG, "Unknown action, exiting");
-            finish();
-            return;
-        }
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
 
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:text="Title"
+                android:textColor="#3F51B5"
+                android:textSize="20sp" />
 
-        mCursor = managedQuery(
-            mUri,         // The URI that gets multiple notes from the provider.
-            PROJECTION,   // A projection that returns the note ID and note content for each note.
-            null,         // No "where" clause selection criteria.
-            null,         // No "where" clause selection values.
-            null          // Use the default sort order (modification date, descending)
-        );
-    
-        // For a paste, initializes the data from clipboard.
-        // (Must be done after mCursor is initialized.)
-        if (Intent.ACTION_PASTE.equals(action)) {
-            // Does the paste
-            performPaste();
-            // Switches the state to EDIT so the title can be modified.
-            mState = STATE_EDIT;
-        }
-    
-        // Sets the layout for this Activity. See res/layout/note_editor.xml
-        setContentView(R.layout.note_editor);
-    
-        // Gets a handle to the EditText in the the layout.
-        mText = (EditText) findViewById(R.id.note);
-    
-        /*
-         * If this Activity had stopped previously, its state was written the ORIGINAL_CONTENT
-         * location in the saved Instance state. This gets the state.
-         */
-        if (savedInstanceState != null) {
-            mOriginalContent = savedInstanceState.getString(ORIGINAL_CONTENT);
-        }
-    }
+            <TextView
+                android:id="@+id/tv_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="80dp"
+                android:layout_marginTop="2dp"
+                android:text="2017/4/25 16:25:30"
+                android:textColor="#000000" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/iv_editNote"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/ic_menu_edit" />
+
+            <ImageView
+                android:id="@+id/iv_deleteNote"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/ic_menu_delete" />
+        </LinearLayout>
+
+    </LinearLayout>
+
 
 '''
