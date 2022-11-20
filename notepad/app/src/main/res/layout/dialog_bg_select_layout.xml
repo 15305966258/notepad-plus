@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="0.7">
+
+
+    <ImageView
+        android:id="@+id/Yello"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.1"
+        android:background="@drawable/yellow"
+        android:onClick="ColorSelect" />
+
+    <ImageView
+        android:id="@+id/PaleVioletRed"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.1"
+        android:background="@drawable/dark"
+        android:onClick="ColorSelect" />
+
+    <ImageView
+        android:id="@+id/LightGrey"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.1"
+        android:background="@drawable/green"
+        android:onClick="ColorSelect" />
+
+    <ImageView
+        android:id="@+id/MediumPurple"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.1"
+        android:background="@drawable/perp"
+        android:onClick="ColorSelect" />
+
+    <ImageView
+        android:id="@+id/DarkGray"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.1"
+        android:background="@drawable/blue"
+        android:onClick="ColorSelect" />
+
+    <ImageView
+        android:id="@+id/Snow"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.1"
+        android:background="@drawable/red"
+        android:onClick="ColorSelect" />
+
+</LinearLayout>

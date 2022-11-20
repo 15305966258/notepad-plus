@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_wenjian.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/wenjian.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_ic_menu_revert.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/ic_menu_revert.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_snow.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/snow.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_contact_edit_edittext_normal.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/contact_edit_edittext_normal.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/menu_list_context_menu.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/menu/list_context_menu.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable-hdpi_ic_menu_revert.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable-hdpi/ic_menu_revert.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_tianjia.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/tianjia.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_pink.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/pink.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_ic_menu_save.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/ic_menu_save.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/layout_noteslist_layout.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/layout/noteslist_layout.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_green.JPG.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/green.JPG"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/layout_custom_title.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/layout/custom_title.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable-hdpi_ic_menu_compose.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable-hdpi/ic_menu_compose.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_perp.JPG.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/perp.JPG"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_addnote.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/addnote.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_editview_bg.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/editview_bg.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable-hdpi_live_folder_notes.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable-hdpi/live_folder_notes.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_search1.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/search1.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_bg.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/bg.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_ic_menu_compose.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/ic_menu_compose.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_ic_menu_delete.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/ic_menu_delete.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_lightgrey.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/lightgrey.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable-ldpi_live_folder_notes.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable-ldpi/live_folder_notes.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_contact_edit_edittext_focused.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/contact_edit_edittext_focused.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_yellow.JPG.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/yellow.JPG"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_dark.JPG.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/dark.JPG"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/layout_noteslistitem.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/layout/noteslistitem.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_mediumpurple.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/mediumpurple.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/menu_list_options_menu.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/menu/list_options_menu.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_search.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/search.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/layout_note_editor.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/layout/note_editor.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/layout_dialog_bg_select_layout.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/layout/dialog_bg_select_layout.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_darkgray.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/darkgray.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable-hdpi_ic_menu_delete.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable-hdpi/ic_menu_delete.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/menu_editor_options_menu.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/menu/editor_options_menu.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_yuan.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/yuan.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_live_folder_notes.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/live_folder_notes.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_app_notes.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/app_notes.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/layout_noteslist_item.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/layout/noteslist_item.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_palevioletred.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/palevioletred.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable-hdpi_ic_menu_save.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable-hdpi/ic_menu_save.png"
+    },
+    {
+        "merged": "com.example.android.notepad.app-merged_res-5:/layout_noteslist_layout.xml.flat",
+        "source": "com.example.android.notepad.app-main-7:/layout/noteslist_layout.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_red.JPG.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/red.JPG"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_ic_menu_edit.png.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/ic_menu_edit.png"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/layout_title_editor.xml.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/layout/title_editor.xml"
+    },
+    {
+        "merged": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-merged_res-5:/drawable_blue.JPG.flat",
+        "source": "/Users/linjiangpeng/.gradle/daemon/7.4/com.example.android.notepad.app-main-7:/drawable/blue.JPG"
+    }
+]
