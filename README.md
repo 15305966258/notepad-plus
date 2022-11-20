@@ -18,11 +18,11 @@
 
 ### 效果图：
 
-![](http://m.qpic.cn/psc?/V12JWr4G1FtPe6/ruAMsa53pVQWN7FLK88i5pUvK6V71Fy8*3hiS2TZnlFO9BvFwoYSAMKLwlbx9fiWz33sly7zEECiyexVfi1owI*bATSGOAZb6czKfqYRXek!/mnull&bo=dwGNAgAAAAADB9s!&rf=photolist&t=5)
+![](images/time.png)
 
 ### 关键代码：
 
-'''
+
 
 	package com.example.android.notepad.util;
 	
@@ -39,7 +39,7 @@
 	    }
 	}
 
-'''
+
 
 ### 二、笔记查询（根据标题查询）
 
@@ -112,7 +112,6 @@
 
 ### 关键代码：
 
-'''
 	
 
 	package com.example.android.notepad.util;
@@ -164,7 +163,7 @@
 	            return null;
 	        }
 	    }
-	'''
+	
 
 ### 
 
@@ -176,7 +175,7 @@
 
 ### 关键代码：
 
-'''
+
 
 	package com.example.android.notepad.application;
 	
@@ -231,7 +230,7 @@
 	    }
 	}
 
-'''
+
 
 #### 五、ui美化
 
